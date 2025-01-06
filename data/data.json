@@ -2,71 +2,71 @@
     "2000": {
       "link": "https://iea.blob.core.windows.net/assets/ecbb1607-2c53-4b72-b2c2-bdd2d2fedf48/WorldEnergyOutlook2000.pdf",
       "page": {
-        "reference": 357
+        "Reference": 357
       },
       "year": [1971, 1997, 2010, 2020],
       "values": {
-        "reference": [14753, 22984, 30083, 36680]
+        "Reference": [14753, 22984, 30083, 36680]
       }
     },
   "2002": {
     "link": "https://iea.blob.core.windows.net/assets/11bc7b29-db2a-46fb-a515-1f5e7d2c7dfd/WorldEnergyOutlook2002.pdf",
     "page": {
-      "reference": 413
+      "Reference": 413
     },
     "year": [1971, 2000, 2010, 2020, 2030],
     "values": {
-      "reference": [13654, 22639, 27453, 32728, 38161]
+      "Reference": [13654, 22639, 27453, 32728, 38161]
     }
   },
   "2004": {
     "link": "https://iea.blob.core.windows.net/assets/e2be51f1-b04c-433f-9a68-93bfd46c7ad4/WorldEnergyOutlook2004.pdf",
     "page": {
-      "reference": 433
+      "Reference": 433
     },
     "year": [1971, 2002, 2010, 2020, 2030],
     "values": {
-      "reference": [13958, 23579, 27817, 33226, 38214]
+      "Reference": [13958, 23579, 27817, 33226, 38214]
     }
   },
   "2006": {
     "link": "https://iea.blob.core.windows.net/assets/390482d0-149a-48c0-959b-d5104ea308ca/weo2006.pdf",
     "page": {
-      "reference": 493
+      "Reference": 493
     },
     "year": [1990, 2004, 2015, 2030],
     "values": {
-      "reference": [20463, 26079, 33333, 40420]
+      "Reference": [20463, 26079, 33333, 40420]
     }
   },
   "2007": {
     "link": "https://iea.blob.core.windows.net/assets/86acf56d-d8cc-4b73-b560-259f061264ad/WorldEnergyOutlook2007.pdf",
     "page": {
-      "reference": 593
+      "Reference": 593
     },
     "year": [1990, 2005, 2015, 2030],
     "values": {
-      "reference": [20688, 26620, 34071, 41905]
+      "Reference": [20688, 26620, 34071, 41905]
     }
   },
   "2008": {
     "link": "https://iea.blob.core.windows.net/assets/89d1f68c-f4bf-4597-805f-901cfa6ce889/weo2008.pdf",
     "page": {
-      "reference": 507
+      "Reference": 507
     },
     "year": [1990, 2006, 2015, 2020, 2025, 2030],
     "values": {
-      "reference": [20945, 27889, 34003, 36399, 38687, 40553]
+      "Reference": [20945, 27889, 34003, 36399, 38687, 40553]
     }
   },
   "2009": {
     "link": "https://iea.blob.core.windows.net/assets/ac80b701-bdfc-48cf-ac4c-00e60e1246a0/weo2009.pdf",
     "page": {
-      "reference": 622
+      "Reference": 622
     },
     "year": [1990, 2007, 2015, 2020, 2025, 2030],
     "values": {
-      "reference": [20941, 28826, 32306, 34526, 37311, 40226]
+      "Reference": [20941, 28826, 32306, 34526, 37311, 40226]
     }
   },
   "2010": {
